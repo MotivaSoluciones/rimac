@@ -2443,7 +2443,7 @@ header .icon-entry .text b {
 		height: 40px;
 		line-height: 40px;
 		position: absolute;
-		left: 25px;
+		right: 8px;
 		top: 15px;
 		cursor: pointer;
 		text-transform: uppercase;
@@ -2576,6 +2576,10 @@ header .icon-entry .text b {
 	/*.search-box.popup{top: 100px!important}*/
 	.logo-responsive {
 		text-align: center;
+	}
+	.logo-responsive a img {
+		width: 215px;
+    	margin-top: 20px;
 	}
 
 	.nav-overflow .col-md-4 {
